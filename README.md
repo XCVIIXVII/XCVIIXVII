@@ -11,7 +11,7 @@
 </ul>
 
 <h3 align="left">🌟 Personal Statement</h3>
-<p>I’m on an endless quest for knowledge, always chasing the next exciting thing. With undiagnosed ADHD, I keep things thrilling by jumping into new tech adventures daily. It’s all about keeping curiosity alive and boredom at bay—one code snippet at a time! 🌟</p>
+<p>I’m on an endless quest for knowledge, always chasing the next exciting thing. With undiagnosed ADHD, I keep things thrilling by jumping into new tech adventures daily. It’s all about keeping curiosity alive and boredom at bay-one code snippet at a time! 🌟</p>
 
 <h3 align="left">📚 Future Learning Plans</h3>
 <ul>
